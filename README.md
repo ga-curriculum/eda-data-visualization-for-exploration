@@ -26,9 +26,9 @@ A rundown of how to build different chart types with matplotlib, including heatm
 | Topic | About |
 | ------ | ------ |
 | [Full Lesson Deck](https://github.com/ga-curriculum/eda-data-visualization-for-exploration/blob/main/01-slides/EDA-Data-Visualization-for-Exploration.pdf){:target="_blank"}| Overview of EDA and `pandas`, including the notebooks below |
-| [02 Distributions](./02-distributions) | A guided walkthrough of summarizing and visualizing distributions |
-| [03 Descriptive statistics and data joins in `pandas`](./03-descriptive-statistics-data-joins-in-pandas) | A guided walkthrough of calculating descriptive statistics with `pandas`, summarising data using `groupby` and joining data |
-| [04 Exercise - descriptive statistics with `pandas`](./04-exercise-descriptive-statistics-in-pandas) | A descriptive statistics exercise using `pandas` |
+| [02 Distributions](https://github.com/ga-curriculum/eda-data-visualization-for-exploration){:target="_blank"} | A guided walkthrough of summarizing and visualizing distributions |
+| [03 Descriptive statistics and data joins in `pandas`](https://github.com/ga-curriculum/eda-data-visualization-for-exploration){:target="_blank"} | A guided walkthrough of calculating descriptive statistics with `pandas`, summarising data using `groupby` and joining data |
+| [04 Exercise - descriptive statistics with `pandas`](https://github.com/ga-curriculum/eda-data-visualization-for-exploration){:target="_blank"} | A descriptive statistics exercise using `pandas` |
 
 
 ## Prerequisites
